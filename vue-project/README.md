@@ -1,4 +1,4 @@
-# st-kod-test
+# st-kod-test Project for Listing, adding and editing data
 
 This project is a starter template for a single-page application (SPA) using Vue 3 with Vite, TypeScript, Tailwind CSS, Pinia for state management, Vue Router for routing, and Faker for generating data. 
 
